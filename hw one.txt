@@ -1,0 +1,15 @@
+public static void main(String []args){
+       String name = "amnah";
+       int age = 15;
+       int d = 18;
+       
+     }
+     public static void check(int age,int d){
+         if(age >= d){
+             System.out.println("congrats "+ name " you will have your driving lisense")
+         }
+         else{
+             System.out.println("im sorry "+ name " but you are too young")
+         }
+     }
+}
